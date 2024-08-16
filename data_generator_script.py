@@ -5,7 +5,7 @@ from sklearn import datasets
 import matplotlib.pyplot as plt
 from itertools import cycle, islice
 from ucimlrepo import fetch_ucirepo 
-pd.set_option('future.no_silent_downcasting', True)
+#pd.set_option('future.no_silent_downcasting', True)
 
 # %% [markdown]
 # <H1> Dados Reais
